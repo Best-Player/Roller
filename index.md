@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Best-Player/Roller/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Best-Player/Roller/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<body>
+<!--<p id = "demo3"></p>
+<script src = "index.js">
+</script>-->
+<h1> Try this link to Mini Putt</h1>
+<a href = "https://www.khanacademy.org/computer-programming/mini-putt/5995007307677696"> Mini Putt</a>
+<h1> Or Try my newest game: Planetoid</h1>
+<a href = "https://www.khanacademy.org/cs/a/5671635075203072"> Planetoid</a>
+<h1> This is a slide. Try it</h1>
+<a href = "https://www.khanacademy.org/computer-programming/why-not-to-be-a-fly/6017328347611136"> 6 Reasons not to be a fly</a>
+<h1> Roller Coaster: Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!!!!!!!!</h1>
+<a href = "https://www.khanacademy.org/computer-programming/adjustable-3d-roller-coaster-track/5851102203346944"> Control your own Roller Coaster</a>
+</body>
+</html>
