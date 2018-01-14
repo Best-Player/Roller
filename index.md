@@ -10,7 +10,7 @@
 <a href = "https://www.khanacademy.org/cs/a/5671635075203072"> Planetoid</a>
 <h1> This is a slide. Try it</h1>
 <a href = "https://www.khanacademy.org/computer-programming/why-not-to-be-a-fly/6017328347611136"> 6 Reasons not to be a fly</a>
-<h1> Roller Coaster: Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!!!!!!!!</h1>
+<h1> Roller Coaster: Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!!!!!!!!!!!!</h1>
 <a href = "https://www.khanacademy.org/computer-programming/adjustable-3d-roller-coaster-track/5851102203346944"> Control your own Roller Coaster</a>
 </body>
 </html>
